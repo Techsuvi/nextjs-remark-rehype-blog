@@ -8,6 +8,7 @@ export default function Home() {
     // Create reference to store the DOM element containing the animation
     const el = useRef(null);
 
+    
     useEffect(() => {
       const typed = new Typed(el.current, {
         strings: [
