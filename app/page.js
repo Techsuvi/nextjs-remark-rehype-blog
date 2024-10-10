@@ -8,7 +8,7 @@ export default function Home() {
     // Create reference to store the DOM element containing the animation
     const el = useRef(null);
 
-    
+
     useEffect(() => {
       const typed = new Typed(el.current, {
         strings: [
@@ -47,7 +47,7 @@ export default function Home() {
             Hi! <span>I am</span> <span  className="font-semibold text-blue-800">Shubham</span> <br className="hidden lg:block" />And I Work on  <span className="font-semibold underline decoration-primary"><span ref={el} /></span>
           </h1>
           <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
-            Open source Tailwind UI components and templates to <br className="hidden lg:block" /> bootstrap your new apps, projects or landing sites!
+           we use Open source Tailwind UI components and templates to <br className="hidden lg:block" /> bootstrap your new apps, projects or landing sites!
           </p>
           <div className="mt-6 bg-transparent border rounded-lg dark:border-gray-700 lg:w-2/3 focus-within:border-primary focus-within:ring focus-within:ring-primary dark:focus-within:border-primary focus-within:ring-opacity-20">
             <form action="https://www.creative-tim.com/twcomponents/search" className="flex flex-wrap justify-between md:flex-row">
