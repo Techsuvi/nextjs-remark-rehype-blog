@@ -21,10 +21,13 @@ export default function About() {
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">About Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
                 Hello! I'm Shubham, a passionate software developer and tech enthusiast. I created this website for freelancing purpose in various programming languages and technologies.
+
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
-               we makes website and do SEO's Whether you're just starting out or looking for Modern technologies in your website, you'll find a valuable and affordable Deals here. Let's work together!
+                we makes website and do SEO's Whether you're just starting out or looking for Modern technologies in your website, you'll find a valuable and affordable Deals here. Let's work together!
+
               </p>
+
             </div>
           </div>
         </div>
@@ -33,7 +36,7 @@ export default function About() {
       <section className="py-16 bg-gray-50 dark:bg-gray-800 dark:text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white">Shubham's Journey as a Coder</h2>
+            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white"> Shubham's Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
               From curious beginner to seasoned developer, here's how Shubham navigated the world of programming.
             </p>
