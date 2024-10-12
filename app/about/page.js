@@ -38,7 +38,7 @@ export default function About() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white"> Shubham&apos;s Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
-              From curious beginner to seasoned developer, here's how Shubham navigated the world of programming.
+              From curious beginner to seasoned developer, hererm -rf node_moduless how Shubham navigated the world of programming.
             </p>
           </div>
           <div className="space-y-12">
