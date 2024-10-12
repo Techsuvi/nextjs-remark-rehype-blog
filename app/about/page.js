@@ -24,7 +24,7 @@ export default function About() {
 
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
-                we makes website and do SEO's Whether you're just starting out or looking for Modern technologies in your website, you'll find a valuable and affordable Deals here. Let's work together!
+                we makes website and do SEO&apos;s Whether you&apos;re just starting out or looking for Modern technologies in your website, you&apos;ll find a valuable and affordable Deals here. Let&apos;s work together!
 
               </p>
 
@@ -36,7 +36,7 @@ export default function About() {
       <section className="py-16 bg-gray-50 dark:bg-gray-800 dark:text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white"> Shubham's Journey as a Coder</h2>
+            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white"> Shubham&apos;s Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
               From curious beginner to seasoned developer, here's how Shubham navigated the world of programming.
             </p>
@@ -73,7 +73,7 @@ export default function About() {
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Taking on Challenges</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  With several years of experience under his belt, Shubham began tackling more significant challenges. From contributing to open-source projects to developing his own web-applications, Shubham continued to push his limits, always looking for opportunities to learn and grow. His journey wasn’t without its setbacks, but each obstacle was a stepping stone to becoming the skilled developer he is today.
+                  With several years of experience under his belt, Shubham began tackling more significant challenges. From contributing to open-source projects to developing his own web-applications, Shubham continued to push his limits, always looking for opportunities to learn and grow. His journey wasnt without its setbacks, but each obstacle was a stepping stone to becoming the skilled developer he is today.
                 </p>
               </div>
             </div>
