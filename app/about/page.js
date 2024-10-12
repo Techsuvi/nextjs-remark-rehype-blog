@@ -49,7 +49,7 @@ export default function About() {
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white dark:text-white">The Spark of Curiosity</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  Shubham’s coding journey began in school when he stumbled upon his first programming language—HTML. What started as a simple curiosity quickly turned into a passion, as Shubham spent countless hours experimenting with code, building small projects, and learning the fundamentals of software development.
+                  Shubham&apos;s coding journey began in school when he stumbled upon his first programming language—HTML. What started as a simple curiosity quickly turned into a passion, as Shubham spent countless hours experimenting with code, building small projects, and learning the fundamentals of software development.
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ export default function About() {
               <div className="md:w-2/3 md:pr-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Diving Deeper</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  After mastering the basics, Shubham’s thirst for knowledge grew. He began exploring more complex topics such as web development. Enrolling in online courses and attending coding bootcamps, Shubham quickly expanded his skill set, taking on freelance projects to apply his knowledge in real-world scenarios.
+                  After mastering the basics, Shubham&apos;s thirst for knowledge grew. He began exploring more complex topics such as web development. Enrolling in online courses and attending coding bootcamps, Shubham quickly expanded his skill set, taking on freelance projects to apply his knowledge in real-world scenarios.
                 </p>
               </div>
             </div>
